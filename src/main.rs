@@ -94,7 +94,7 @@ struct State {
 
 fn window_conf() -> Conf {
     Conf {
-        window_title: String::from("title"),
+        window_title: String::from("Sine Wave"),
         window_width: 600,
         window_height: 600,
         ..Default::default()
