@@ -1,5 +1,5 @@
 # rs-sine-wave
-Sine wave 2d render using Rust and Macroquad!
+Sine wave render using Rust and Macroquad!
 - Code formatted for Windows only, feel free to make it more compatible if needed 👍
 
 ![](./assets/wave.gif)
